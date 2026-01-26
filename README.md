@@ -1,0 +1,1 @@
+Este es un proyecto de demostración de colaboración en git.
